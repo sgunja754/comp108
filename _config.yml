@@ -31,14 +31,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
-# Just the Docs theme
-remote_theme: just-the-docs/just-the-docs
+# Theme
+remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-remote-theme
 
-# Just the Docs specific settings
-color_scheme: nil # or "light" (default), "dark"
-search_enabled: true
+ 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
