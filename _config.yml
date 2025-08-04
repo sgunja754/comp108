@@ -31,10 +31,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
-# Use a GitHub Pages supported theme first
-remote_theme: pages-themes/minimal@v0.2.0
+# Just the Docs theme
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
+
+# Just the Docs specific settings
+color_scheme: nil # or "light" (default), "dark"
+search_enabled: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
