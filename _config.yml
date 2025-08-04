@@ -31,10 +31,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
-# Theme
-remote_theme: alshedivat/al-folio
+# Beautiful Jekyll theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-remote-theme
+
+# Beautiful Jekyll specific settings
+navbar-links:
+  Home: "/"
 
  
 
