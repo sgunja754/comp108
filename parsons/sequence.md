@@ -53,8 +53,8 @@ Re-arrange the blocks below: this assigns the name 'Sarah' to a variable, and pr
 </p> 
 <script type="text/javascript"> 
 (function(){
-  var initial = "#Create a program that asks for the user&#039;s favorite colour and then displays a personalised message.\n" +
-    "colour = input(&quot;What is your favorite coloru? &quot;)\n" +
+  var initial = "#A program that asks for the user&#039;s favorite colour & displays a personalised message.\n" +
+    "colour = input(&quot;What is your favorite colour? &quot;)\n" +
     "print(f&quot;Your favorite color is {colour} - that&#039;s a great choice!&quot;)";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "parsons-2-sortable",
