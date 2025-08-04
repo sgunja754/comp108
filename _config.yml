@@ -31,10 +31,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
-# Build settings
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+# Use a GitHub Pages supported theme first
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
