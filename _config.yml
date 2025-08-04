@@ -35,7 +35,7 @@ theme: minima
 
 # Optional minima settings
 minima:
-  skin: dark  # or "classic", "auto", "dark", "solarized"
+  skin: solarized  # or "classic", "auto", "dark", "solarized"
 
  
 
