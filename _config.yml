@@ -31,10 +31,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
- # Build settings
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+theme: minima
+
+# Optional minima settings
+minima:
+  skin: classic  # or "auto", "dark", "solarized"
 
  
 
