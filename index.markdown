@@ -2,5 +2,7 @@
 layout: page
 title: Parsons Practice for COMP108
 ---
-### Example Next Link
+### Problems by concept
+These are designed to help you get familiar with the syntax, and the order in which statements are executed. 
+
 [Sequence, Input, Output](./parsons/sequence.html)
