@@ -44,6 +44,9 @@ Re-arrange the blocks below: this assigns the name 'Sarah' to a variable, and pr
   }); 
 })();     
 </script>
+
+
+Re-arrange the blocks below: the comment first, followed by the input and then the output
 <div id="parsons-2-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-2-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
@@ -78,6 +81,8 @@ Re-arrange the blocks below: this assigns the name 'Sarah' to a variable, and pr
   }); 
 })(); 
 </script>
+
+Re-arrange the blocks below 
 <div id="parsons-3-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-3-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
@@ -118,6 +123,10 @@ Re-arrange the blocks below: this assigns the name 'Sarah' to a variable, and pr
   }); 
 })(); 
 </script>
+
+Drag the correct lines of code to the yellow area below.
+Note that this problem contains distractors.
+Distractors are incorrect code statements included to make the problem more challenging and assess your understanding of concepts.
 <div id="parsons-4-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-4-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
