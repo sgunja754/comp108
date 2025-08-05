@@ -124,7 +124,7 @@ Re-arrange the blocks below
 })(); 
 </script>
 
-Drag the correct lines of code to the yellow area below.
+Drag the correct lines of code to the yellow area below: get length input first, then width
 Note that this problem contains distractors.
 Distractors are incorrect code statements included to make the problem more challenging and assess your understanding of concepts.
 <div id="parsons-4-sortableTrash" class="sortable-code"></div> 
