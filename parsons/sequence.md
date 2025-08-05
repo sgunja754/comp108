@@ -5,8 +5,6 @@
 layout: default
 title: Sequencing code
 ---
-# Parsons Practice
-
 ## Parsons 1  
 Re-arrange the blocks below: this assigns the name 'Sarah' to a variable, and prints statements in logical order.
 <div id="parsons-1-sortableTrash" class="sortable-code"></div> 
@@ -45,7 +43,7 @@ Re-arrange the blocks below: this assigns the name 'Sarah' to a variable, and pr
 })();     
 </script>
 
-
+## Parsons 2  
 Re-arrange the blocks below: the comment first, followed by the input and then the output
 <div id="parsons-2-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-2-sortable" class="sortable-code"></div> 
@@ -82,6 +80,7 @@ Re-arrange the blocks below: the comment first, followed by the input and then t
 })(); 
 </script>
 
+## Parsons 3
 Re-arrange the blocks below 
 <div id="parsons-3-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-3-sortable" class="sortable-code"></div> 
@@ -124,6 +123,7 @@ Re-arrange the blocks below
 })(); 
 </script>
 
+## Parsons 4  
 Drag the correct lines of code to the yellow area below: get length input first, then width
 Note that this problem contains distractors.
 Distractors are incorrect code statements included to make the problem more challenging and assess your understanding of concepts.
