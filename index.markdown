@@ -7,4 +7,4 @@ These are designed to help you get familiar with the syntax, and the order in wh
 
 [Sequence, Input, Output](./parsons/sequence.html)
 
-[Selection: if..elif..else](.parsons/selection.md)
+[Selection: if..elif..else](./parsons/selection.md)
