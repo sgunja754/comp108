@@ -6,6 +6,9 @@ layout: default
 title: Selection statements
 ---
 ## Parsons 1  
+
+Re-arrange the blocks below, taking care to indent statements as required.
+
 <div id="parsons-1-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-1-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
@@ -49,6 +52,9 @@ title: Selection statements
 </script>
 
 ## Parsons 2
+
+Re-arrange the blocks below, taking care to indent statements as required.
+
 <div id="parsons-2-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-2-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
@@ -94,6 +100,9 @@ title: Selection statements
 </script>
 
 ## Parsons 3
+
+Re-arrange the blocks below, taking care to indent statements as required.
+
 <div id="parsons-3-sortableTrash" class="sortable-code"></div> 
 <div id="parsons-3-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
