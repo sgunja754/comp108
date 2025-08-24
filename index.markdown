@@ -9,4 +9,4 @@ These are designed to help you get familiar with the syntax, and the order in wh
 
 [Selection: if..elif..else](./parsons/selection.md)
 
-[Selection: Nested ifs](./parsons/nested-ifs.md)
+[Selection: Nested ifs](./parsons/nested-ifs.html)
